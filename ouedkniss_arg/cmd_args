@@ -1,0 +1,1 @@
+scrapy crawl ouedkniss -o out.json -a catg=informatique/ordinateur-portable/ -a pg=3

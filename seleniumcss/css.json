@@ -1,0 +1,8 @@
+[
+{"title": "flex-basis", "desc": "Defines the initial size of a flexbox item."},
+{"title": "flex-shrink", "desc": "Defines how much a flexbox item should shrink if there's not enough space available."},
+{"title": "flex-direction", "desc": "Defines how flexbox items are ordered within a flexbox container."},
+{"title": "flex-wrap", "desc": "Defines if flexbox items appear on a single line or on multiple lines within a flexbox container."},
+{"title": "flex-flow", "desc": "Shorthand property for flex-direction  and  flex-wrap."},
+{"title": "flex-grow", "desc": "Defines how much a flexbox item should grow if there's space available."}
+]

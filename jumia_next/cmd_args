@@ -1,0 +1,1 @@
+scrapy crawl jumia -o out.json -a catg=maison-bureau-meubles/ -a pg=3 

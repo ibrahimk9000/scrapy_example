@@ -5,7 +5,7 @@ import scrapy
 class JumiaSpider(scrapy.Spider):
     name = 'jumia'
     #allowed_domains = ['https://www.jumia.dz/']
-    start_urls = ['https://www.jumia.dz/']
+    #start_urls = ['https://www.jumia.dz/']
     pg=0
     def start_requests(self):
         urls=[]

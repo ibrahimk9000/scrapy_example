@@ -8,7 +8,7 @@ class JumiaSpider(scrapy.Spider):
     #start_urls = ['https://www.jumia.dz/']
     pg=0
     def start_requests(self):
-        urls=[]
+        
         url = 'https://www.jumia.dz/'
         attr = getattr(self, 'catg', 'smartphones/')
         pgn = getattr(self, 'pg', 5)
